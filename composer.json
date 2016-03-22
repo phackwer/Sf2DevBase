@@ -19,8 +19,8 @@
         "sensio/distribution-bundle": "~3.0,>=3.0.12",
         "sensio/framework-extra-bundle": "~3.0,>=3.0.2",
         "incenteev/composer-parameter-handler": "~2.0",
-        "sansis/bizlay-bundle": "dev-master",
-        "sansis/bizlaycrud-bundle": "dev-master",
+        "sansis/bizlay-bundle": "~1.0.0",
+        "sansis/bizlaycrud-bundle": "~1.0.0",
         "knplabs/json-schema-bundle": "dev-master"
     },
     "require-dev": {
